@@ -16,7 +16,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableBatchProcessing
-@EnableScheduling
 @AllArgsConstructor
 public class SpringBatchConfigurationApplication {
 
